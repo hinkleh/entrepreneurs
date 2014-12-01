@@ -17,9 +17,29 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Nobile",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
+
+h1,
+h2,
+h3, 
+h4, 
+h5, 
+h6 {
+	color: #0058CC;
+}
+
+span {
+	color: #172E4C;
+}
+
+#nav,
+#author {
+	color: #172E4C;
+}
+
+
 
 .lead {
     font-size: 18px;
@@ -163,4 +183,23 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+#featurephoto {
+	margin-left:95px;
+}
+
+#nameinfo {
+	margin-left: -120px;
+}
+
+#articletext {
+	margin-right: -90px;
+}
+
+#caption {
+	font-size: 10px;
+	margin-top: 20px;
+	margin-left: 120px;
+}
 }
