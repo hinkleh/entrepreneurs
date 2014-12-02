@@ -178,9 +178,7 @@ span {
 
 footer {
     padding: 50px 0;
-    background-color: #f8f8f8;
 }
-
 p.copyright {
     margin: 15px 0 0;
 }
@@ -202,7 +200,14 @@ p.copyright {
 	margin-top: 20px;
 	margin-left: 120px;
 }
+
+#namez {
+font-size: 20px;
+font-weight: bolder;
+color: red;
+
 }
-#lead {
-	font-weight: bold;
+
+#questions {
+	font-weight: bolder:
 	}
