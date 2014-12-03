@@ -10,9 +10,9 @@ $('div').effect('slide');
 
 $(document).ready(function() {
     $(".namez").hover(function() {
-        $(".namez").css("color","purple");
+        $(".namez").css("font-size","30px");
         }, function() {
-        $(".namez").css("color","red");
+        $(".namez").css("font-size","");
     });
     
     $(".question").click(function() {
