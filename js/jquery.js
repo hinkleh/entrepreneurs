@@ -8,6 +8,7 @@ $('div').effect('slide');
     });
 });
 
+<<<<<<< Updated upstream
 $(document).ready(function() {
     $(".namez").hover(function() {
         $(".namez").css("font-size","30px");
@@ -35,3 +36,5 @@ $(document).ready(function() {
 
     
     });
+=======
+>>>>>>> Stashed changes
