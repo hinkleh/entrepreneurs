@@ -14,4 +14,10 @@ $(document).ready(function() {
         }, function() {
         $(".namez").css("color","red");
     });
+    
+    $(".question").click(function() {
+    	$(".question").css("font-size","24px");
+    });
+    
+    
     });
