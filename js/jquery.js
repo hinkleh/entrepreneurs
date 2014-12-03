@@ -25,4 +25,13 @@ $(document).ready(function() {
     	$(".section-heading").css("color","blue");
     });
     
+     $("h1").mouseover(function(){
+      $(this).addClass('hover');
+   });
+   
+   $("h1").mouseout(function(){
+      $(this).removeClass('hover');
+   });
+
+    
     });
