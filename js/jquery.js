@@ -19,5 +19,10 @@ $(document).ready(function() {
     	$(".question").css("font-size","24px");
     });
     
+    $(".section-heading").hover(function() {
+    	$(".section-heading").css("color","red");
+    	}, function() {
+    	$(".section-heading").css("color","blue");
+    });
     
     });
