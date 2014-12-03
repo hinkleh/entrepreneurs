@@ -9,7 +9,7 @@ $('div').effect('slide');
 });
 
 $(document).ready(function() {
-    $("#namez").click(function() {
-        $("#namez").fadeOut('fast');
+    $(".namez").click(function() {
+        $(".namez").fadeOut('fast');
     });
     });
